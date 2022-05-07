@@ -2,7 +2,7 @@
 name: Bug report [Discord]
 about: Report an issue with our Discord community
 title: "[BUG]"
-labels: bug
+labels: bug, discord, status:triage
 assignees: ''
 
 ---

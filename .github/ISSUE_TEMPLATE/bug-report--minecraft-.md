@@ -2,7 +2,7 @@
 name: Bug report [Minecraft]
 about: Report an issue with our network
 title: "[BUG]"
-labels: bug, suggestion
+labels: bug, minecraft, status:triage
 assignees: ''
 
 ---

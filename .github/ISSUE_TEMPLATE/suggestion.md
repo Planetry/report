@@ -2,7 +2,7 @@
 name: Suggestion
 about: Suggest something to add to our network
 title: "[SUGGESTION]"
-labels: suggestion
+labels: status:triage, suggestion
 assignees: ''
 
 ---
