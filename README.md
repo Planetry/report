@@ -1,4 +1,4 @@
-# Planetry Bug/Suggestion Reporting
+# ✨ Planetry Bug/Suggestion Reporting
 Report bugs with (or suggestions for) our network here! 
 
 ### Guidelines
